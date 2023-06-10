@@ -1,3 +1,9 @@
+---
+layout: default
+title: Principal
+published: true
+---
+
 # Comunidade Zig Brasil
 
 <h1 align="center">

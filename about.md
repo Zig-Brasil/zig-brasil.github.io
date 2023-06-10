@@ -1,29 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Origem do Projeto
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Projeto inicial em Março de 2023, jutamente com os membro da comunidade [Zig Brasil (Telegram)](https://t.me/ziglang_br), tendo a finalidade de compartilhar informações e realizar encontros (virtual e presencial) voltado a Zig, sendo esta uma nova linguagem de programação, também uma toolchain (cadeia de ferramentas) baseado no LLVM.
 
-There are currently two themes built on Poole:
+## Membros de destaques
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- [**Adelar Queiroz**](https://github.com/adelarsq)
+- [**Endel Dreyer**](https://github.com/adelarsq)
+- [**Felipe Stival**](https://github.com/v0idpwn)
+- [**Jean Andrade**](https://github.com/jyleno)
+- [**Matheus França**](https://github.com/kassane)
+- [**Rafael Batiati**](https://github.com/batiati)
+- [**Rodrigo Dornelles**](https://github.com/RodrigoDornelles)

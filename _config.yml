@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Zig Brasil
+tagline:             'Comunidade Zig Brasil'
+description:         'Compartilhando encontros e possíveis projetos realizados no brazil com Zig (linguagem e toolchain).'
+url:                 https://zig-brasil.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Matheus Catarino França
+  url:               https://kassane.github.io
+  email:             matheus-catarino@hotmail.com
 
 # Gems
 plugins:
@@ -19,4 +19,6 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+github:
+  repo:              https://github.com/zig-brasil/zig-brasil.github.io
+
