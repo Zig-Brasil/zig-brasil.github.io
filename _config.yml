@@ -5,6 +5,7 @@ description:         'Compartilhando encontros e possíveis projetos realizados 
 url:                 https://zig-brasil.github.io
 baseurl:             '/'
 paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
@@ -15,6 +16,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Custom vars
 version:             1.1.0
