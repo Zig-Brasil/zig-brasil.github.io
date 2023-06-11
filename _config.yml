@@ -3,9 +3,8 @@ title:               Zig Brasil
 tagline:             'Comunidade Zig Brasil'
 description:         'Compartilhando encontros e possíveis projetos realizados no brazil com Zig (linguagem e toolchain).'
 url:                 https://zig-brasil.github.io
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
-permalink:           pretty
 
 # About/contact
 author:
@@ -22,3 +21,44 @@ version:             1.1.0
 github:
   repo:              https://github.com/zig-brasil/zig-brasil.github.io
 
+prose:
+  ignore:
+    - /\..*
+    - /_config.yml
+    - /atom.xml
+    - /LICENSE
+    - /_layouts
+    - /_includes
+    - /public
+    - /_posts
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
